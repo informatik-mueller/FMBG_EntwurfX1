@@ -49,7 +49,7 @@ class louis2 extends Form implements HandlesEventDispatching {
         Button2.Height(LENGTH_FILL_PARENT);
         Button2.Width(LENGTH_FILL_PARENT);
         Button2.Shape(2);
-        Button2.Text("Kantine");
+        Button2.Text("Kantine ");
         Button2.TextColor(0xFF444444);
         HorizontalArrangement2 = new HorizontalArrangement(TableArrangement1);
         HorizontalArrangement2.BackgroundColor(0x00FFFFFF);
